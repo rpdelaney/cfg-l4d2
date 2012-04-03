@@ -1,10 +1,10 @@
 Configs by an entire sleeve of fig newtons
-steamcommunity.com/id/fignewtons
+http://www.steamcommunity.com/id/fignewtons
 
-	autoexec.cfg				where all the magic happens
-	asfnglows.cfg				glow script with loops, using waits. not actively updated/maintained
-	asfnglows-noloop.cfg			glow script without loops, for use with ahk. more up-to-date.
+autoexec.cfg				where all the magic happens
+asfnglows.cfg				glow script with loops, using waits. not actively updated/maintained
+asfnglows-noloop.cfg			glow script without loops, for use with ahk. more up-to-date.
 
 Configs by @CanadaRox
 
-	crxglows.cfg				Possibly old,  here for archive since asfnglows.cfg is based on it
+crxglows.cfg				Possibly old,  here for archive since asfnglows.cfg is based on it

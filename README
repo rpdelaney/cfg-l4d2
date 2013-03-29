@@ -13,16 +13,13 @@ Legalese:
  to copy, distribute and transmit the work
  to adapt the work
  
- Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any 
- way that suggests that they endorse you or your use of the work).
+ Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
  
  Noncommercial — You may not use this work for commercial purposes.
  
- Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only 
- under the same or similar license to this one.
+ Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
  
- This software is released without any warranty or guarantee to fitness for any particular purpose.
- USE AT YOUR OWN RISK.
+ This software is released without any warranty or guarantee to fitness for any particular purpose. USE AT YOUR OWN RISK.
  
 Installation instructions:
 
@@ -32,5 +29,5 @@ Installation instructions:
  3. Run l4d2.ahk
  4. Press Ctrl+F12 and listen for the tone to confirm the script is loaded and working.
 
-This is alpha software provided for demonstration and proof-of-concept only. If you don't already know how to
-contact the developer, then he will not be interested in bug reports or complaints.
+This is alpha software provided for demonstration and proof-of-concept only. If you don't already know how to contact the developer, then he will not be interested in bug reports or 
+complaints.

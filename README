@@ -1,10 +1,36 @@
-Configs by an entire sleeve of fig newtons
-http://www.steamcommunity.com/id/fignewtons
+ ==============================================================
+ an entire sleeve of fig newtons' l4d2 scripts v0.1
+ Copyright 2012 
+ ==============================================================
 
-autoexec.cfg				where all the magic happens
-asfnglows.cfg				glow script with loops, using waits. not actively updated/maintained
-asfnglows-noloop.cfg			glow script without loops, for use with ahk. more up-to-date.
+Legalese:
 
-Configs by @CanadaRox
+ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+ Description and full legal agreement here: https://creativecommons.org/licenses/by-nc-sa/3.0/
+ 
+ You are free:
+ 
+ to copy, distribute and transmit the work
+ to adapt the work
+ 
+ Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any 
+ way that suggests that they endorse you or your use of the work).
+ 
+ Noncommercial — You may not use this work for commercial purposes.
+ 
+ Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only 
+ under the same or similar license to this one.
+ 
+ This software is released without any warranty or guarantee to fitness for any particular purpose.
+ USE AT YOUR OWN RISK.
+ 
+Installation instructions:
 
-crxglows.cfg				Possibly old,  here for archive since asfnglows.cfg is based on it
+ 1. Install the latest version of AutoHotKey_L from http://l.autohotkey.net
+ 2. Open l4d2.ahk, l4d2-main.ahk, and l4d2-mouse.ahk and customize and understand the bindings.
+ 3. Copy the sound files into a directory and set the path in l4d2-main.ahk
+ 3. Run l4d2.ahk
+ 4. Press Ctrl+F12 and listen for the tone to confirm the script is loaded and working.
+
+This is alpha software provided for demonstration and proof-of-concept only. If you don't already know how to
+contact the developer, then he will not be interested in bug reports or complaints.

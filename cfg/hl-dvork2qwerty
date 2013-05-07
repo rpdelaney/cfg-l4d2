@@ -6,6 +6,7 @@
 
 echo 'Converting binds for file '$1'...'
 
-sed -r --file=./hl-dvork2qwerty.sed $1 > $1.new
+sed -r --file=hl-cleanup.sed $1 | _
+sed -r --file=hl-dvork2qwerty.sed $1 > $1.new
 
 echo 'Done.'

@@ -1,3 +1,10 @@
+###################################
+# Conversion
+# 
+# These patterns convert dvorak bindings to qwerty, or vice-versa. ;t command is necessary to avoid multiple substitutions
+# on a single line.
+# 
+
 s@^bind "'"@bind "q"@g  ;t
 s@^bind ","@bind "w"@g  ;t
 s@^bind "\."@bind "e"@g  ;t
@@ -21,7 +28,7 @@ s@^bind "t"@bind "k"@g  ;t
 s@^bind "n"@bind "l"@g  ;t
 s@^bind "s"@bind ";"@g  ;t
 s@^bind "-"@bind "\'"@g  ;t
-s@^bind ";"@bind "z"@g  ;t
+s@^bind "SEMICOLON"@bind "z"@g  ;t
 s@^bind "q"@bind "x"@g  ;t
 s@^bind "j"@bind "c"@g  ;t
 s@^bind "k"@bind "v"@g  ;t

@@ -1,5 +1,6 @@
 #!/usr/bin/bash
 #edits keybindings in configuration files for source engine based games to switch the keyboard layout from dvorak to qwerty
+#pass the filename in first argument. script prints results to stdout
 
 sed -r --file=hl-cleanup.sed $1 | \
 sed -r --file=hl-dvork2qwerty.sed $1

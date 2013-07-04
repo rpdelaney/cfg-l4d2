@@ -26,7 +26,7 @@ s@^bind "d"@bind "h"@g  ;t
 s@^bind "h"@bind "j"@g  ;t
 s@^bind "t"@bind "k"@g  ;t
 s@^bind "n"@bind "l"@g  ;t
-s@^bind "s"@bind ";"@g  ;t
+s@^bind "s"@bind "SEMICOLON"@g  ;t
 s@^bind "-"@bind "\'"@g  ;t
 s@^bind "SEMICOLON"@bind "z"@g  ;t
 s@^bind "q"@bind "x"@g  ;t

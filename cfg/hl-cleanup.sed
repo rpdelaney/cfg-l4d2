@@ -1,8 +1,6 @@
-##################################
-# Formatting
-# 
+#
 # These patterns clean up common formatting and typographical errors to assure the keybindings are accurately converted.
-# 
+#
 
 #Add double quotes around the first argument of keybindings
 s@^bind (\w*?)\s(.*)@bind "\1" \2@

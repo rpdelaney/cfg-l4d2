@@ -17,3 +17,7 @@ file titled "LICENSE".
 Valve, the Valve logo, Left 4 Dead, Left 4 Dead 2, Steam, and the Steam
 logo are trademarks and/or registered trademarks of Valve Corporation.
 All other trademarks are property of their respective owners.
+
+<!--
+vim: ft=markdown wrapmargin=79
+-->

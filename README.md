@@ -3,8 +3,8 @@ These are configuration files and scripts for playing Left 4 Dead 2 by
 Valve Software, Inc.
 
 ####Directory structure
-/ahk    autohotkey scripts that can be run in tandem with l4d2
-/cfg    in-game configuration files
+- /ahk    autohotkey scripts that can be run in tandem with l4d2
+- /cfg    in-game configuration files
 
 #Legalese
 Copyright (C) 2014 by Ryan Delaney. Permission is granted to copy,

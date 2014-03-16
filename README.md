@@ -6,6 +6,10 @@ Valve Software, Inc.
 - /ahk    autohotkey scripts that can be run in tandem with l4d2
 - /cfg    in-game configuration files
 
+
+####Launch options
+`-lv -w 1920 -h 1080 -console -refresh 120 -heapsize 1572864 -high -noforcemaccel -noforcemparms -noipx -nojoy -novid +_sethdmodels 0 +log on`
+
 #Legalese
 Copyright (C) 2014 by Ryan Delaney. Permission is granted to copy,
 distribute and/or modify this document under the terms of the GNU Free

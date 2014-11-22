@@ -2,21 +2,6 @@
 ; an entire sleeve of fig newtons' l4d2 scripts v0.1
 ; Copyright 2012 
 ; ==============================================================
-; Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
-; Description and full legal agreement here: https://creativecommons.org/licenses/by-nc-sa/3.0/
-; 
-; You are free:
-; 
-; to copy, distribute and transmit the work
-; to adapt the work
-; 
-; Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any 
-; way that suggests that they endorse you or your use of the work).
-; 
-; Noncommercial — You may not use this work for commercial purposes.
-; 
-; Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only 
-; under the same or similar license to this one.
 ; 
 ; This software is released without any warranty or guarantee to fitness for any particular purpose.
 ; USE AT YOUR OWN RISK.

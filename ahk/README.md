@@ -1,10 +1,11 @@
-#Installation instructions:
+# Installation instructions
 
- 1. Install the latest version of AutoHotKey_L from http://l.autohotkey.net
- 2. Open l4d2.ahk, l4d2-main.ahk, and l4d2-mouse.ahk with a text editor to customize and understand the bindings.
- 3. Copy the sound files into a directory and set the path in l4d2-main.ahk
- 3. Run l4d2.ahk
- 4. Press Ctrl+F12 and listen for the tone to confirm the script is loaded and working.
+1. Install the latest version of [AutoHotKey_L](http://l.autohotkey.net)
+1. Open l4d2.ahk, l4d2-main.ahk, and l4d2-mouse.ahk with a text editor to
+   customize and understand the bindings.
+1. Copy the sound files into a directory and set the path in l4d2-main.ahk
+1. Run l4d2.ahk
+1. Press Ctrl+F12 and listen for the tone to confirm the script is loaded and working.
 
 # License
 © Copyright 2014 Ryan Delaney.

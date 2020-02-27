@@ -1,11 +1,11 @@
 ; ==============================================================
 ; an entire sleeve of fig newtons' l4d2 scripts v0.1
-; Copyright 2012 
+; Copyright 2012
 ; ==============================================================
-; 
+;
 ; This software is released without any warranty or guarantee to fitness for any particular purpose.
 ; USE AT YOUR OWN RISK.
-; 
+;
 
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
@@ -38,7 +38,7 @@ Menu, TRAY, Icon, %IconDir%\steam.ico
         SoundPlay, %SoundDir%\Windows Error.wav
         Return
     }
-    
+
     Menu, TRAY, Icon, %IconDir%\l4d2.ico
     SoundPlay %SoundDir%\Windows Shutdown.wav
     Run, l4d2-main.ahk

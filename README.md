@@ -1,16 +1,19 @@
 # an entire sleeve of fig newtons' l4d2 scripts
+
 These are configuration files and scripts for playing
 Left 4 Dead 2 by Valve Software, Inc.
 
-#### Directory structure
+## Directory structure
+
 - /ahk    autohotkey scripts that can be run in tandem with l4d2
 - /cfg    in-game configuration files
 
+## Launch options
 
-#### Launch options
 `-lv -w 1920 -h 1080 -console -refresh 120 -heapsize 1572864 -high -noforcemaccel -noforcemparms -noipx -nojoy -novid +_sethdmodels 0 +log on`
 
 # Legalese
+
 Copyright (C) 2014-17 by Ryan Delaney.  This program is
 free software: you can redistribute it and/or modify it
 under the terms of the GNU General Public License as
